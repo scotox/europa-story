@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>打乱顺序重读欧洲历史</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+  
+	<!-- 1. Theme -->
+  <!-- <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css"> -->
+	<link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple.css">
+  
+	<!-- 2. PrismJS Themes -->
+	<!-- <link rel="stylesheet" href="https://unpkg.com/prism-github/prism-github.css"> -->
+	<!-- <link rel="stylesheet" href="https://unpkg.com/prism-theme-one-dark/prism-onedark.css"> -->
+
+	<!-- 3. Custom Theme Properties -->
+	<style>
+    :root {
+      /* Reduce the font size */ 
+      /* --base-font-size: 14px; */
+      --cover-heading-color: #000000
+      /* Change the theme color hue (0-360) */
+      /* --theme-hue: 325; */
+  
+      /* Add sidebar navigation bullets */
+      /* --sidebar-nav-link-before-content-l1: 'ðŸ˜€'; */
+      /* --sidebar-nav-link-before-content-l2: 'ðŸ’©'; */
+
+    }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    // 4. Docsify Configuration
+    window.$docsify = {
+      // GENERAL
+      // -----------------------------------------------------------------
+      name       : '乱序重读欧洲历史',
+      repo       : 'https://github.com/scotox/',
+      coverpage  : '_coverpage.md',
+      homepage   : 'README.md',
+      onlyCover  : false,
+      loadSidebar: '_sidebar.md',
+      loadNavbar : true,
+
+      // NAVIGATION
+      // -----------------------------------------------------------------
+      auto2top   : true,
+      mergeNavbar: true, // 小屏设备下合并导航栏到侧边栏
+      maxLevel   : 6,
+      subMaxLevel: 4,
+      alias: {
+        '/.*/_navbar.md': '/_navbar.md',
+        // '/Pt0-Ch1-Sec1/(.*)': '/part0/chapter1/section1/README.md',
+        // '/de-de/(.*)': 'https://raw.githubusercontent.com/docsifyjs/docs-de/master/$1',
+        // '/ru/(.*)': 'https://raw.githubusercontent.com/docsifyjs/docs-ru/master/$1',
+        // '/es/(.*)': 'https://raw.githubusercontent.com/docsifyjs/docs-es/master/$1'
+      },
+      
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+
+      // 5. docsify-themeable
+      themeable : {
+        // readyTransition : false,
+        // responsiveTables: false
+      },
+
+      // PLUGINS
+      // -----------------------------------------------------------------
+      // complete configuration parameters
+      search: {
+        maxAge     : 500000, // 过期时间，单位毫秒86400000，默认一天 Expiration time, the default one day
+        paths      : 'auto',
+        depth      : 6,
+        noData     : 'No results!',
+        placeholder: 'Search...'
+      },
+    }
+  </script>
+
+  <!-- Required: docsify + docsify-themeable -->
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="https://unpkg.com/docsify-themeable"></script>
+
+  <!-- 6. Docsify Plugins -->
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="https://unpkg.com/docsify-copy-code"></script>
+  <script src="https://unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="https://unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
+
+  <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/matomo.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-markdown.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-nginx.min.js"></script>
+</body>
+</html>
