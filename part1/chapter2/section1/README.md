@@ -1,7 +1,5 @@
 # 第一节 爱琴争雄
 
-https://bbs.tianya.cn/m/post-worldlook-1865442-19.shtml
-
 ## 爱琴争雄（一）
 
 当年的`欧罗巴/Europa`公主，在`宙斯/Zeus`所化神牛的指引之下，来到了`克里特岛/Crete`。
