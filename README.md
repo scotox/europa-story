@@ -1,7 +1,6 @@
 # 打乱顺序重读欧洲历史（脱水整理版）
 
-?> 一部自带温度的欧陆传奇<br>
-https://bbs.tianya.cn/m/post-worldlook-1865442-1.shtml
+?> 一部自带温度的欧陆传奇
 
 原著：[唐岛渔夫](https://www.tianya.cn/m/home.jsp?uid=119830443)
 
