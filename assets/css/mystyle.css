@@ -1,6 +1,7 @@
 /*
  * 自定义修改 Docsify 样式
  *
+ * 文档外层包裹的div宽设置为96%，感觉很nice
  */
 .markdown-section {
     max-width: 96%;
