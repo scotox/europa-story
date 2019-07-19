@@ -4,7 +4,7 @@
 - 八大行星自转方向多数也和公转方向一致。
 - 只有金星和天王星两个例外，金星自转方向与公转方向相反。
 
-![](../part0/chapter1/section5/he-Origin-of-the-Milky-Way.jpg)
+![](../part1/chapter1/section5/he-Origin-of-the-Milky-Way.jpg)
 
 ?> `银河系`（`Milky Way`）的诞生，`赫拉克勒斯/Hercules`猛吸`赫拉/Hera`<br>
 拯救太阳系 HalleyWars<br>
