@@ -1,0 +1,7 @@
+/*
+ * 自定义修改 Docsify 样式
+ *
+ */
+.markdown-section {
+    max-width: 96%;
+}
