@@ -16,10 +16,14 @@
 `Mercury`还是什么？
 没错，英文中的 `水星`。
 
+![](../part1/chapter4/section1/Planets-Mercury.jpg)
+
 ## 金星 `Venus`（♀）
 
 `Mercury`是水星，那么`Venus`呢？
 没错，`Venus`就是`金星`。
+
+![](../part1/chapter4/section1/Planets-Venus.jpg)
 
 ## 地球 `Earth`（⊕）
 
@@ -27,10 +31,14 @@
 
 战神`Mars`，就是西方天文学中的`火星`这个单词。
 
+![](../part1/chapter4/section2/Planets-Mars.jpg)
+
 ## 木星 `Jupiter`（♃）
 
 `Mercury`是水星，`Venus`是金星，那么`Jupiter`呢？
 没错，`Jupiter`就是`木星`。
+
+![](../part1/chapter4/section1/Planets-Jupiter.jpg)
 
 ## 土星 `Saturn`（♄）
 
@@ -38,6 +46,8 @@
 
 `罗马神话`中的`土星`，就是`Saturn`
 而这个`Saturn`，就对应着`希腊神话`中的`克洛诺斯`。
+
+![](../part1/chapter4/section2/Planets-Saturn.jpg)
 
 ## 天王星 `Uranus`（♅）
 
@@ -48,6 +58,10 @@
 既然已经谈到了克罗诺斯砍丁丁事件，那么被砍丁丁的那位`乌拉诺斯`同志呢？
 没错，`乌拉诺斯`同志就是 `天王星/Uranus`。
 
+![](../part1/chapter4/section2/Planets-Uranus.jpg)
+
 ## 海王星 `Neptune`（♆）
 
 `海王星`没什么好说的，就是`希腊神话`中的`波塞冬`，也就是`罗马神话`中的`Neptune`。
+
+![](../part1/chapter4/section2/Planets-Neptune.jpg)

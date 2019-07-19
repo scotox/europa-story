@@ -150,12 +150,15 @@
 
 
 `Mercury`还是什么？没错，英文中的`水星`
+
 ![](Planets-Mercury.jpg)
 
 `Mercury`是水星，那么`Venus`呢？没错，`Venus`就是`金星`
+
 ![](Planets-Venus.jpg)
 
 `Mercury`是`水星`，`Venus`是`金星`，那么`Jupiter`呢？没错，`Jupiter`就是`木星`
+
 ![](Planets-Jupiter.jpg)
 
 至于其他行星，以后再说。

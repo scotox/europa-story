@@ -61,6 +61,7 @@ Most of the elements of the story can be found in the scene. The central figure,
 
 
 战神`玛尔斯/Mars`，就是西方天文学中的`火星`这个单词
+
 ![](Planets-Mars.jpg)
 
 至此，我们已经集齐了`水星/Mercury`、`金星/Venus`、`火星/Mars`、`木星/Jupiter`。
@@ -71,16 +72,19 @@ Most of the elements of the story can be found in the scene. The central figure,
 还记得不记得`克洛诺斯/Kronos`？镰刀夺位，砍自己老爸丁丁的那位老哥
 
 `土星/Saturn`标准像
+
 ![](Planets-Saturn.jpg)
 
 
 既然已经谈到了`克罗诺斯/Kronos`砍丁丁事件，那么被砍丁丁的那位`乌拉诺斯/Uranus`同志呢？
 没错，他就是`天王星/Uranus`
+
 ![](Planets-Uranus.jpg)
 
 至此，八大行星齐聚，还差`海王星`......
 
 `海王星/Neptune`没什么好说的，就是`希腊神话`中的`波塞冬/Poseidon`，也就是`罗马神话`中的`Neptune`
+
 ![](Planets-Neptune.jpg)
 
 
