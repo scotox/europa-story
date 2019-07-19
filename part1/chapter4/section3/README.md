@@ -8,15 +8,17 @@
 
 身在罗马城，从`帕拉蒂尼山/Palatine Hill`极目四望，当时的亚平宁半岛中部大概有三股势力。
 
-第一大势力，就是`拉丁姆/Latium`地区的`拉丁人/Latins`。
-
-`拉丁人/Latins`并没有一个统一的王朝政治中心，不过`拉丁姆/Latium`地区却因为阿尔巴龙伽的一系列前尘旧事，有了三个比较强的城邦——`拉维尼/Lavinium`，`阿尔巴龙伽/Alba Longa`，`罗马/Rome`。
-
-第二大势力，是前文出现的`伊特鲁里亚人/Etruscans`。
-
-第三大势力，是`萨宾人/Sabines`。
+- 第一大势力，就是`拉丁姆/Latium`地区的`拉丁人/Latins`。
+- 第二大势力，是前文出现的`伊特鲁里亚人/Etruscans`。
+- 第三大势力，是`萨宾人/Sabines`。
 
 要想在这种错综复杂的形势种生存下来，`罗慕路斯/Romulus`必须明白的一件事情，就是整军备战，枕戈待旦。而建成初期的`罗马/Rome`，最稀缺的资源就是人口。
+
+
+> `拉丁人/Latins`并没有一个统一的王朝政治中心，不过`拉丁姆/Latium`地区却因为阿尔巴龙伽的一系列前尘旧事，有了三个比较强的城邦：
+> - `拉维尼/Lavinium`
+> - `阿尔巴龙伽/Alba Longa`
+> - `罗马/Rome`。
 
 
 ![](The-linguistic-landscape-of-Central-Italy-at-the-beginning-of-Roman-expansion.png)
