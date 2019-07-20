@@ -60,7 +60,7 @@
 - **第七部分 制霸海洋**
 - **第八部分 列强演义**
 - **神话背后的星座**
-* [十二星座](/astro/)
+* [八十八星座](/astro/)
 * [行星](/astro/Planets.md)
 - **Links**
 - [Markdown](markdown)
