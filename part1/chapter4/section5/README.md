@@ -21,7 +21,7 @@
 
 这个有形化之后的“权力”，叫做束棒。束棒的文化源头，据传是来自于伊特鲁里亚人，从伊特鲁里亚人又传给了罗马人。
 
-![](Schematic-diagram-of-beam-rod.png)
+![](Schematic-diagram-of-beam-rod.png ':size=100')
 
 束棒的示意图
 

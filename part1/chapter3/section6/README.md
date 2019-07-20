@@ -213,7 +213,7 @@
 谋杀亲夫的`克吕滕涅斯特拉/Clytemnestra`
 
 > Murder of Agamemnon, painting by Pierre-Narcisse Guérin (1817)<br>
-[第二章 第三节 迈锡尼王国（四）](/part1/chapter2/section3/#迈锡尼王国（四）)中的这幅图的背景，正是`克吕滕涅斯特拉/Clytemnestra`的杀人第一现场<br>
+[第二章 从克里特到迈锡尼 / 第三节 迈锡尼王国 / 迈锡尼王国（四）](/part1/chapter2/section3/#迈锡尼王国（四）)中的这幅图的背景，正是`克吕滕涅斯特拉/Clytemnestra`的杀人第一现场<br>
 oceanary3：动不动就匕首大斧的，同是谋杀亲夫，思路也如此不同<br>
 评论 oceanary3：居然还有思路......<br>
 
