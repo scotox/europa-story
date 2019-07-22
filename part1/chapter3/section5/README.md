@@ -1,7 +1,5 @@
 # 第五节 沙场斗将
 
-https://bbs.tianya.cn/m/post-worldlook-1865442-41.shtml
-
 ## 沙场斗将（一）
 
 大英雄`阿喀琉斯/Achilles`的暂时离队，让第十年的战争充满了无数种悬念与可能。
