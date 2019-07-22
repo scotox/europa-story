@@ -250,3 +250,9 @@
 `普里阿摩/Priam`的硬币
 
 > Priam of Troy, by Alessandro Cesati. fl. 1540-1564 
+
+<center>
+
+?> [第一部分 洪荒神话 → 第三章 特洛伊](/part1/chapter3/section1/)
+
+</center>
