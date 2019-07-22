@@ -460,9 +460,8 @@
 
 今天升上天空的星座——`武仙星座/Hercules 赫拉克勒斯`
 
+---
 
-<center>
+**_NEXT >_**
 
-?> [第一部分 洪荒神话 → 第二章 从克里特到迈锡尼](/part1/chapter2/introduction/)
-
-</center>
+_[第一部分 洪荒神话](/part1/chapter1/introduction/)_ / [第二章 从克里特到迈锡尼](/part1/chapter2/introduction/)

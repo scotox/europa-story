@@ -251,8 +251,8 @@
 
 > Priam of Troy, by Alessandro Cesati. fl. 1540-1564 
 
-<center>
+---
 
-?> [第一部分 洪荒神话 → 第三章 特洛伊](/part1/chapter3/section1/)
+**_NEXT >_**
 
-</center>
+_[第一部分 洪荒神话](/part1/chapter1/introduction/)_ / [第三章 特洛伊](/part1/chapter3/section1/)

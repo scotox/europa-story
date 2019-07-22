@@ -45,8 +45,6 @@
 
 ---
 
-<center>
+**_NEXT >_**
 
-?> [第一部分 洪荒神话 → 第一章 希腊众神](/part1/chapter1/introduction/)
-
-</center>
+_[第一部分 洪荒神话](/part1/chapter1/introduction/)_ / [第一章 希腊众神](/part1/chapter1/introduction/)
