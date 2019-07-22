@@ -29,6 +29,7 @@
 
 
 ![](Hector-Ready-to-fight.jpg)
+
 `赫克托尔/Hector`准备迎战
 
 ![](Triumphant-Achilles-dragging-Hector-lifeless-body-in-Troy.jpg)
